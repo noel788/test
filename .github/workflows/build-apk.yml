@@ -2,7 +2,7 @@ name: Build Android APK
 
 on:
   push:
-    branches: [ "main" ] # Se activa al subir cambios a la rama main
+    branches: [ "main" ] # Se activa al subir cambios a la rama main2
 
 jobs:
   build:
