@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest # Usa un servidor Linux en la nube
 
     steps:
-      - name: Checkout del c0digo
+      - name: Checkout del c0digo3
         uses: actions/checkout@v4
 
       - name: Configurar JDK 17
